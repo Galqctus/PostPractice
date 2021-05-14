@@ -1,0 +1,5 @@
+name: PostPractice
+version: 0.0.1
+main: core/PostPractice/Core
+author: SoySmqre
+api: 3.19.1
